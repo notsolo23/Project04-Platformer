@@ -1,12 +1,16 @@
 # Project04-Platformer
 
 # Project Name
-Context and date
+Project 4
+
+03/16/2025
 
 Description
 
+Created a 2d playform game
+
 ## Implementation
-Which features you included.
+shaders, start menu, End menu, controllable player, Levels to the game, enemies, coins.
 
 ## References
 
@@ -17,3 +21,5 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
+
+Nobel Solomon
